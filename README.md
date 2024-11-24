@@ -12,6 +12,9 @@ UtilizeI uma esteira de prompts para gerar cada etapa do processo criativo.
 - [ChatGPT](https://chat.openai.com/) 
 - [ElevenLabs](https://beta.elevenlabs.io/)
 
+## 📚 Materiais
+O podcast pode ser conferido em nos materais do projeto como "Podcast Criando o futuro com inteligência EP1"
+
 ## ✨ Como foi feito ?
 
 - Roteiro gerado via chatgpt
